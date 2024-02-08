@@ -1,2 +1,2 @@
-# basic-port-scanner
-this is an example program of a basic port scanner using the socket module
+# Simple/Basic port scanner
+This is an easy yet an interesting start to building more complex port and vulnerability scanners. 
